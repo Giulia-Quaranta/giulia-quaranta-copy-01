@@ -3,10 +3,10 @@ title: TONALITA' E SCALA DI TONALITA'
 subtitle: Pillole di Armocromia
 date: '2019-05-10'
 thumb_img_path: /images/tonalità-e-scala-tonalità.jpg
-content_img_path: ''
+content_img_path: /images/tonalità-e-scala-tonalità.jpg
 layout: project
 ---
-
+![](/images/tonalità-e-scala-tonalità.jpg)
 
 Il colore "puro" è un colore a cui non è stato aggiunto né bianco né nero; si può chiamare anche "tinta" o "tonalità".
 
