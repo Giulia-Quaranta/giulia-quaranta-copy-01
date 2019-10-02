@@ -12,6 +12,7 @@ params:
         url: 'https://www.stackbit.com'
   header:
     has_nav: true
-    title: Exto
+    logo_img: /images/logo.png
+    title: Home
 disableKinds:
   - RSS
