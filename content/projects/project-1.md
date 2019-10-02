@@ -2,7 +2,7 @@
 title: TONALITA' E SCALA DI TONALITA'
 subtitle: Pillole di Armocromia
 date: '2019-05-10'
-thumb_img_path: /images/tonalità-e-scala-tonalità.jpg
+thumb_img_path: ''
 content_img_path: ''
 layout: project
 ---
