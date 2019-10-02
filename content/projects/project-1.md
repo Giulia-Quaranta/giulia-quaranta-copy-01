@@ -1,9 +1,9 @@
 ---
-title: Project Title 1
-subtitle: Optional Project Subtitle
+title: Project Title 1fjfjfjfj
+subtitle: ghfhfhfh
 date: '2019-05-10'
-thumb_img_path: images/1_thumb.jpg
-content_img_path: images/1.jpg
+thumb_img_path: /images/logo.png
+content_img_path: /images/logo.png
 layout: project
 ---
 
