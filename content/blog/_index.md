@@ -1,5 +1,5 @@
 ---
-title: Blog blabla
+title: 'Blog '
 menu:
   main:
     name: Blog
