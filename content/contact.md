@@ -1,5 +1,5 @@
 ---
-title: Contact
+title: Contatti
 menu:
   main:
     name: Contact
