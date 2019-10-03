@@ -1,5 +1,6 @@
 ---
 title: Contatti
+img_path: /images/email.png
 menu:
   main:
     name: Contact
